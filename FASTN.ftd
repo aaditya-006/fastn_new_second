@@ -1,4 +1,6 @@
 -- import: fastn
+-- fastn.dependency: fastn-community.github.io/opensans-typography as opensans
+
 
 -- fastn.package: aaditya-006.github.io/fastn_new_second
 favicon: /-/aaditya-006.github.io/fastn_new_second/favicon.ico
